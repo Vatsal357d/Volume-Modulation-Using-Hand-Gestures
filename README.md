@@ -34,17 +34,6 @@ The current volume percentage is displayed on the screen.
 Usage
 Clone this repository and navigate to the project directory:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/hand-gesture-volume-control.git
-cd hand-gesture-volume-control
-Run the script:
-
-bash
-Copy
-Edit
-python volume_control.py
 Control the Volume:
 
 Move your thumb and index finger closer to decrease the volume.
